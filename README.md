@@ -11,6 +11,10 @@ This ShinyApp is hosted online at xxx.shinyapp.io... . It does not need R instal
 
 If you are familiar with R, we encourage you to instead install the ShinyApp locally.
 
+**Run it locally with installation**
+
+Save the repository on your local machine. Open either the ui.R or the server.R file with RStudio, then click on "Run App".
+
 **Run it locally without installation**
 
 You need to download the app from GitHub through R and it will run locally. However, as soon as you will close R, the app will not be available anymore and you need it to download it again. All the packages and dependencies have to be installed first.
@@ -18,10 +22,6 @@ You need to download the app from GitHub through R and it will run locally. Howe
 install.packages(c("shiny", "shinydashboard"), dependencies = TRUE)
 
 shiny::runGitHub("AnalysisChoiscesOLVH", user="Schelin")
-
-**Run it locally with installation**
-
-Save the repository on your local machine. Open either the ui.R or the server.R file with RStudio, then click on "Run App".
 
 ## ABOUT THE APP ##
 
