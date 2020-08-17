@@ -17,7 +17,7 @@ You need to download the app from GitHub through R and it will run locally. Howe
 
 install.packages(c("shiny", "shinydashboard"), dependencies = TRUE)
 
-shiny::runGitHub("AnalysisChoiscesOLVH", user="schelin")
+shiny::runGitHub("AnalysisChoiscesOLVH", user="Schelin")
 
 **Run it locally with installation**
 
