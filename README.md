@@ -25,3 +25,8 @@ Save the repository on your local machine. Open either the ui.R or the server.R 
 
 ## ABOUT THE APP ##
 
+The first panal shows the overall results (p-value curve for the multivariate analysis) for the choosen outcome measure, and the chosen combination of joints and legs.
+The second panel shows original data and p-value curves in the saggital, frontal and transversal plane for Trunk, if Trunk is chosen.
+The third panel shows original data and p-value curves in the saggital, frontal and transversal plane for Hip, if Hip is chosen.
+The forth panel shows original data and p-value curves in the saggital, frontal and transversal plane for Knee, if Knee is chosen. 
+The fift panel shows original data and p-value curves in the saggital, frontal and transversal plane for Ankle, if Ankle is chosen. 
