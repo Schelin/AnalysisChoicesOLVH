@@ -7,7 +7,7 @@ You can run the app in several ways:
 
 **Run it on the web**
 
-This ShinyApp is hosted online at xxx.shinyapp.io... . It does not need R installation and it can be immediately used by just clicking on the link. It only allows for 25 active hours per month. 
+This ShinyApp is hosted online at xxx.shinyapp.io... . It does not need R installation and it can be immediately used by just clicking on the link. However, it only allows for 25 active hours per month. 
 
 If you are familiar with R, we encourage you to instead install the ShinyApp locally.
 
