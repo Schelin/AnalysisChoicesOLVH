@@ -1,7 +1,7 @@
 # AnalysisChoicesOLVH
 Supplementary material for manuscript "TITLE". This ShinyApp allows for a complete and interactiv exploration of the different choices of aoutcome measures, leg comparisons and included joint comparisons. 
 
-INSTALLATION
+## INSTALLATION ##
 
 You can run the apps in several ways:
 
