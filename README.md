@@ -3,13 +3,13 @@ Supplementary material for manuscript "TITLE". This ShinyApp allows for a comple
 
 ## INSTALLATION ##
 
-You can run the apps in several ways:
+You can run the app in several ways:
 
-**Run it on the web!**
+**Run it on the web**
 
-This shiny app is hosted online at xxx.shinyapp.io... . It does not need R installation and it can be immediately used by just clicking on the link. It only allows for 25 active hours per month. 
+This ShinyApp is hosted online at xxx.shinyapp.io... . It does not need R installation and it can be immediately used by just clicking on the link. It only allows for 25 active hours per month. 
 
-If you are familiar with R, we encourage you to install the shiny app locally.
+If you are familiar with R, we encourage you to instead install the ShinyApp locally.
 
 **Run it locally without installation**
 
