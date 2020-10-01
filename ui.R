@@ -49,8 +49,8 @@ dashboardPage(
       tabPanel("Overall results", value=1,
                box(
                  width = NULL, solidHeader = FALSE,
-                 helpText(h4("Supplementary material for the manuscript 'Comparing jump performances between ACL-injured, 
-                controls and athletes for the one leg vertical hop using a multi-aspect analysis of movement curves'"))
+                 helpText(h4("Supplementary material for the manuscript 'Analysis choices provide contrasting conclusions when evaluating 
+jump performance: A multi-aspect inferential method applied to kinematic curves from the one-leg vertical hop in knee-injured and asymptomatic persons'"))
                ),
                
                fluidRow(
