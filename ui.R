@@ -49,8 +49,7 @@ dashboardPage(
       tabPanel("Overall results", value=1,
                box(
                  width = NULL, solidHeader = FALSE,
-                 helpText(h4("Supplementary material for the manuscript 'Analysis choices provide contrasting conclusions when evaluating 
-jump performance: A multi-aspect inferential method applied to kinematic curves from the one-leg vertical hop in knee-injured and asymptomatic persons'"))
+                 helpText(h4("Supplementary material for the manuscript 'Analysis choices impact movement evaluation: A multi-aspect inferential method applied to kinematic curves of vertical hops in knee-injured and asymptomatic persons'"))
                ),
                
                fluidRow(
